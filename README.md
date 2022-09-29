@@ -1,4 +1,4 @@
-### Setup
+### #Setup
 #### yum install -y grub2-efi-x64-modules grub2-pc-modules
 #### cd
 #### git clone https://github.com/somphop26/cobbler-loaders.git
